@@ -21,7 +21,7 @@ print(scores)
 #slice a list
 top_5 = scores[-5:]
 print(top_5)
-
+print
 #dictionary
 
 person={"name": "Zubeidah","age":19 , "weight":58 , "county":"Nairobi"}
@@ -39,3 +39,4 @@ for s in scores:
 
     for d in days: # for each day in days
         print(d)
+
